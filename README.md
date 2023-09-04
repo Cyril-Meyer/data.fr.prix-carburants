@@ -20,8 +20,8 @@ Licence : Licence ouverte / Open licence
 [plein écran](prix-carburants-E10.html)
 
 
-## Statistiques
-Différence moyenne par rapport au prix moyen.
+## Statistiques 2020 - 2022
+Différence moyenne par rapport au prix moyen .
 
 |Adresse                                 | Diesel | SP98   | 
 |----------------------------------------|--------|--------|
